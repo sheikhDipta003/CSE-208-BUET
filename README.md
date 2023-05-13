@@ -39,4 +39,5 @@ Test cases are given in the specifications in the same folder as the .java files
 ## Reference Materials 
 
 * **Introduction to Algorithms**, 3rd Edition, _Thomas H. Cormen_, _Charles E. Leiserson_, _Ronald L. Rivest_, and _Clifford Stein_
+* [Algotithms Lecture by Abdul Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
